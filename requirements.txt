@@ -1,0 +1,7 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic==2.7.0
+openai==1.30.0
+google-generativeai==0.5.4
+anthropic==0.26.0
+python-dotenv==1.0.1
